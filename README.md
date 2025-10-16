@@ -65,7 +65,7 @@ The goal of this project is to help **Shield Insurance** understand key performa
 
 ## 🖼️ Dashboard Preview  
 *(Optional — Add a screenshot below)*  
-![Dashboard Preview](Shield Insurance Analysis/Home.png)  
+![Dashboard Preview](Home.png)  
 
 ---
 
