@@ -6,7 +6,7 @@ This project was completed as part of the **#codebasicsvirtualinternship**, focu
 
 ## 🔗 Live Dashboard
 🎯 **View the Interactive Power BI Dashboard here:**  
-👉 [Click to View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiYWNlYTQ0MWItY2M0MS00ZjIxLWE0MmUtNGZkOWZlNDk4NzVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+👉 [Click to View on Power BI Service]([https://app.powerbi.com/view?r=eyJrIjoiYWNlYTQ0MWItY2M0MS00ZjIxLWE0MmUtNGZkOWZlNDk4NzVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiODRjODdlNTktNmJjMy00MzRhLWEwMDctOWJlYTNiYmYzZmU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 *(Best viewed on desktop for full interactivity)*  
 
@@ -30,16 +30,16 @@ The goal of this analysis is to help the company understand:
 ## 💡 Key Insights
 - **Total Revenue:** 989M | **Active Customers:** 26.8K  
 - **Top Region:** Delhi NCR (402M Revenue)  
-- **Offline agents** contribute ~55% of revenue  
-- **31–40 age group** dominates in customer count and settlements  
+- **Offline agents** contribute ~55.67% of revenue  
+- **35–44 age group** dominates in customer count and settlements  
 - Digital channels are steadily becoming key growth drivers
 
 ---
 
 ## 🧭 Recommendations
-- Focus marketing on the **31–40 age group**  
+- Focus marketing on the **35–44 age group**  
 - Strengthen **online channels** to attract younger customers  
-- Design targeted plans for **41–50** and **65+** customers  
+- Design targeted plans for **45–54** and **65+** customers  
 
 ---
 
