@@ -6,7 +6,7 @@ This project was completed as part of the **#CodebasicsVirtualInternship**, focu
 
 ## 🔗 Live Dashboard  
 🎯 **View the Interactive Power BI Dashboard here:**  
-👉 [Click to View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiODRjODdlNTktNmJjMy00MzRhLWEwMDctOWJlYTNiYmYzZmU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+👉 [Click to View on Power BI Service](<iframe title="shield_insurance_Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODI1NDU3YzItNzIwOS00NGJhLWIyNTEtN2Y3NmM5YjM2YjBlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)  
 
 *(Best viewed on desktop for full interactivity)*  
 
